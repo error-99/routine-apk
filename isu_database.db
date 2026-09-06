@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_id": "2023100101",
+      "name": "Tamanna Jannat",
+      "password": "secretpassword",
+      "department": "AMM",
+      "batch_no": "1",
+      "semester_id": 1,
+      "total_credits": 14,
+      "enrolled_courses": [
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "last_login": "2026-08-26 02:18:06"
+    },
+    {
+      "id": 2,
+      "student_id": "2023100201",
+      "name": "MD Shabbir Ahmed",
+      "password": "secretpassword",
+      "department": "CSE",
+      "batch_no": "2",
+      "semester_id": 1,
+      "total_credits": 13.5,
+      "enrolled_courses": [
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "last_login": "2026-08-26 02:18:06"
+    },
+    {
+      "id": 3,
+      "student_id": "1545454545",
+      "name": "sasas",
+      "password": "asdvsdvsdvsd",
+      "department": "AMM",
+      "batch_no": "14",
+      "semester_id": 2,
+      "enrolled_courses": [
+        101,
+        107,
+        108,
+        109,
+        110
+      ],
+      "total_credits": 15,
+      "created_at": "2026-08-26T02:19:27.931Z",
+      "last_login": "2026-08-26T02:19:27.931Z"
+    },
+    {
+      "id": 4,
+      "student_id": "23453453453",
+      "name": "sdvsdvsd",
+      "password": "ascascas",
+      "department": "AMM",
+      "batch_no": "1",
+      "semester_id": 2,
+      "enrolled_courses": [
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "total_credits": 15,
+      "created_at": "2026-08-26T02:35:10.106Z",
+      "last_login": "2026-08-26T02:35:10.106Z"
+    }
+  ]
+}

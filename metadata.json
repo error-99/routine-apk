@@ -1,0 +1,8 @@
+{
+  "name": "ISU Routine",
+  "description": "Native Android app for class routines, live class tracking, CTs, exams, course management, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
